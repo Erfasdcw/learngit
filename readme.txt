@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files666.
 My stupid boss still prefers SVN.
 Git push
+Git remote rm origin
