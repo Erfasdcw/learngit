@@ -5,3 +5,4 @@ Git tracks changes of files666.
 My stupid boss still prefers SVN.
 Git push
 Git remote rm origin
+Creating a new branch is quick.
